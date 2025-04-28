@@ -42,8 +42,6 @@ pokestats/
 
 ## Visualisation
 
-## Visualizations
-
 <p align="center">
   <img src="images/TotalStats.png" alt="Total Stats Distribution" width="45%" style="display:inline-block; margin-right: 10px;"/>
   <img src="images/AttackDefence.png" alt="Attack vs Defense" width="45%" style="display:inline-block;"/>
