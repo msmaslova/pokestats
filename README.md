@@ -74,7 +74,7 @@ The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) a
 The full interactive dashboard is available for download in the `tableau/` folder as a `.twbx` packaged workbook.
 
 To view the dashboard:
-- Download the `pokestats_dashboard.twbx` file.
+- Download the `Pokestats Dashboard.twbx` file.
 - Open it using [Tableau Public](https://public.tableau.com/) (free) or Tableau Desktop.
 
 
