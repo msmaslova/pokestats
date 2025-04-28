@@ -7,7 +7,12 @@ The goal is to clean the data, create new features like "Total Stats" and "Speed
 
 ## Project Structure
 
-pokestats/ ├── data/ │ └── pokemon.xlsx # Raw data ├── notebooks/ │ └── data_analysis.ipynb # Jupyter Notebook with cleaning and visualizations ├── README.md # Project description
+pokestats/ 
+├── data/ │ 
+└── pokemon.xlsx # Raw data 
+├── notebooks/ │ 
+└── data_analysis.ipynb # Jupyter Notebook with cleaning and visualizations 
+├── README.md # Project description
 
 
 ## Technologies Used
