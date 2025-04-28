@@ -1,4 +1,4 @@
-# PokeStats: Pokemon Data Analysis 🧹📈
+# PokeStats: Pokemon Data Analysis 📈
 
 ## About
 
