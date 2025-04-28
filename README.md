@@ -51,6 +51,12 @@ pokestats/
 
 <img src="images/Top10.png" alt="Top-10" width="45%" style="display:inline-block; margin-right: 10px;"/>
 
+## Key Insights
+
+- Most Pokemons have moderate total stats (~400-500), with few reaching 600+.
+- Attack vs Defense analysis shows that few Pokemon are extremely strong in both.
+- Speed categorization helps distinguish between fast sweepers and defensive tanks.
+- Legendary Pokemon significantly outperform non-legendary ones across all attributes.
 
 ## Author
 
