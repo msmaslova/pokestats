@@ -23,6 +23,7 @@ pokestats/
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Tableau for additional dashboard
 
 ## How to Run
 
