@@ -67,7 +67,7 @@ Key features:
 - Top 10 Pokemon by Total Stats
 - Attack vs Defense scatter plot (colored by Speed)
 - Distribution of Total Stats among Pokémon
-- Pokemon type distribution (Pie Chart)
+- Bonus! Pokemon type distribution (Bubble Chart)
 
 The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) and Primary Type, helping to explore different Pokémon battle strategies visually.
 
