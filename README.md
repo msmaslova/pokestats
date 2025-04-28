@@ -71,7 +71,11 @@ Key features:
 
 The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) and Primary Type, helping to explore different Pokémon battle strategies visually.
 
-You can find the Tableau dashboard file in the `tableau/` folder as `PokeStats Dashboard.twbx`.
+The full interactive dashboard is available for download in the `tableau/` folder as a `.twbx` packaged workbook.
+
+To view the dashboard:
+- Download the `pokestats_dashboard.twbx` file.
+- Open it using [Tableau Public](https://public.tableau.com/) (free) or Tableau Desktop.
 
 
 ## Author
