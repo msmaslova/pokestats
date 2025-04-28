@@ -33,14 +33,14 @@ pokestats/
 ## Key Features
 
 - Data cleaning and duplicate removal
-- Creating a "Total Stats" feature by summing major Pokémon characteristics
+- Creating a "Total Stats" feature by summing major Pokemon characteristics
 - Speed categorization: Fast, Average, Slow
 - Visualizations:
   - Total Stats distribution
   - Attack vs Defense scatter plot
-  - Top 10 Pokémon by overall strength
+  - Top 10 Pokemon by overall strength
 
-## Visualisation
+## Visualization
 
 <p align="center">
   <img src="images/TotalStats.png" alt="Total Stats Distribution" width="45%" style="display:inline-block; margin-right: 10px;"/>
