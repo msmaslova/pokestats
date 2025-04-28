@@ -58,6 +58,21 @@ pokestats/
 - Speed categorization helps distinguish between fast sweepers and defensive tanks.
 - Legendary Pokemon significantly outperform non-legendary ones across all attributes.
 
+## Interactive Dashboard
+
+Explore the interactive Pokémon dashboard built with Tableau!
+
+Key features:
+- Top 10 Pokemon by Total Stats
+- Attack vs Defense scatter plot (colored by Speed)
+- Distribution of Total Stats among Pokémon
+- Pokémon type distribution (Pie Chart)
+
+The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) and Primary Type, helping to explore different Pokémon battle strategies visually.
+
+You can find the Tableau dashboard file in the `tableau/` folder as `pokestats_dashboard.twb`.
+
+
 ## Author
 
 Created by Mariia Maslova
