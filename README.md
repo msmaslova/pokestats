@@ -1,8 +1,8 @@
-# PokeStats: Pokémon Data Analysis 🧹📈
+# PokeStats: Pokemon Data Analysis 🧹📈
 
 ## About
 
-This project analyzes Pokémon data using Python and Jupyter Notebook.  
+This project analyzes Pokemon data using Python and Jupyter Notebook.  
 The goal is to clean the data, create new features like "Total Stats" and "Speed Category," and visualize key insights such as attack vs defense and speed distributions.
 
 ## Project Structure
