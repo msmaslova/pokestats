@@ -33,9 +33,6 @@ pokestats/ ├── data/ │ └── pokemon.xlsx # Raw data ├── noteb
   - Attack vs Defense scatter plot
   - Top 10 Pokémon by overall strength
 
-## Example Visualizations
-
-
 
 ## Author
 
