@@ -47,6 +47,10 @@ pokestats/
   <img src="images/AttackDefence.png" alt="Attack vs Defense" width="45%" style="display:inline-block;"/>
 </p>
 
+## Top-10 Pokemons
+
+<img src="images/Top10.png" alt="Top-10" width="45%" style="display:inline-block; margin-right: 10px;"/>
+
 
 ## Author
 
