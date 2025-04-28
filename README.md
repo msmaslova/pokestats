@@ -26,7 +26,7 @@ pokestats/
 
 ## How to Run
 
-1. Open `data_analysis.ipynb` in Jupyter Notebook.
+1. Open `PokeCode.ipynb` in Jupyter Notebook.
 2. Run all cells sequentially.
 3. View the generated visualizations.
 
