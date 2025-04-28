@@ -60,13 +60,13 @@ pokestats/
 
 ## Interactive Dashboard
 
-Explore the interactive Pokémon dashboard built with Tableau!
+Explore the interactive Pokemon dashboard built with Tableau!
 
 Key features:
 - Top 10 Pokemon by Total Stats
 - Attack vs Defense scatter plot (colored by Speed)
 - Distribution of Total Stats among Pokémon
-- Pokémon type distribution (Pie Chart)
+- Pokemon type distribution (Pie Chart)
 
 The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) and Primary Type, helping to explore different Pokémon battle strategies visually.
 
