@@ -35,7 +35,7 @@ pokestats/ ├── data/ │ └── pokemon.xlsx # Raw data ├── noteb
 
 ## Example Visualizations
 
-_(Screenshots can be added here later.)_
+
 
 ## Author
 
