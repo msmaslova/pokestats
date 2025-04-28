@@ -12,7 +12,7 @@ pokestats/
 ├── data/
 │   └── pokemon.xlsx          # Raw data
 ├── notebooks/
-│   └── data_analysis.ipynb   # Jupyter Notebook with cleaning and visualizations
+│   └── PokeCode.ipynb   # Jupyter Notebook with cleaning and visualizations
 ├── README.md                 # Project description
 ```
 
