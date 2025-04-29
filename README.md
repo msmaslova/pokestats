@@ -23,7 +23,7 @@ pokestats/
 - Pandas
 - Matplotlib
 - Jupyter Notebook
-- Tableau for additional dashboard
+- Tableau Public
 
 ## How to Run
 
@@ -59,24 +59,19 @@ pokestats/
 - Speed categorization helps distinguish between fast sweepers and defensive tanks.
 - Legendary Pokemon significantly outperform non-legendary ones across all attributes.
 
-## Interactive Dashboard
 
-Explore the interactive Pokemon dashboard built with Tableau!
+## 🌟 Explore the Interactive Dashboard
 
-Key features:
-- Top 10 Pokemon by Total Stats
-- Attack vs Defense scatter plot (colored by Speed)
-- Distribution of Total Stats among Pokémon
-- Bonus! Pokemon type distribution (Bubble Chart)
+[PokeInsight: Pokémon Stats Dashboard](https://public.tableau.com/app/profile/mariia.maslova/viz/PokeStatsDashboard-4/FinalDashboard?publish=yes)
 
-The dashboard allows dynamic filtering by Speed Category (Fast, Average, Slow) and Primary Type, helping to explore different Pokémon battle strategies visually.
+This dashboard provides a comprehensive exploration of Pokemon statistics:
+- Key performance indicators such as Top Pokemon, Average Attack, and Average Speed
+- Top 10 strongest Pokemon visualized in a bar chart
+- Attack vs Defense scatter plot to analyze strategic profiles
+- Speed trends across different Pokemon types
+- Interactive filters by Pokemon Type, Speed Category, and Generation
 
-The full interactive dashboard is available for download in the `tableau/` folder as a `.twbx` packaged workbook.
-
-To view the dashboard:
-- Download the `Pokestats Dashboard.twbx` file.
-- Open it using [Tableau Public](https://public.tableau.com/) (free) or Tableau Desktop.
-
+Built with Tableau Public.
 
 ## Author
 
