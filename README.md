@@ -62,7 +62,7 @@ pokestats/
 
 ## 🌟 Explore the Interactive Dashboard
 
-[PokeInsight: Pokémon Stats Dashboard](https://public.tableau.com/app/profile/mariia.maslova/viz/PokeStatsDashboard-4/FinalDashboard?publish=yes)
+[PokeInsight: Pokemon Stats Dashboard](https://public.tableau.com/app/profile/mariia.maslova/viz/PokeStatsDashboard-4/FinalDashboard?publish=yes)
 
 This dashboard provides a comprehensive exploration of Pokemon statistics:
 - Key performance indicators such as Top Pokemon, Average Attack, and Average Speed
